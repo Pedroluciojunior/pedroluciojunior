@@ -1,55 +1,53 @@
-# 🏢 NAVA – Technology for Business
-
-📍 Brasília – DF  
-📅 Set/2024 – Atual  
-🎯 Cargo: Especialista em Telecomunicações  
-
----
-
-## 🎯 Escopo de Atuação
-
-Atuação em operações de TI e Telecom com foco em gestão de incidentes, troubleshooting de circuitos e garantia de SLA.
+# RELATÓRIO TÉCNICO PROFISSIONAL  
+## NAVA – Technology for Business  
+Especialista em Telecomunicações  
+Período: Setembro/2024 – Atual  
+Localidade: Brasília – DF  
 
 ---
 
-## 🔧 Atividades Técnicas
+## 1. Contexto Organizacional
 
-- Abertura, acompanhamento e encerramento de reparos em circuitos de dados e voz
-- Troubleshooting inicial em ambientes de telecom
-- Diagnóstico em plataformas:
+Atuação em ambiente corporativo de Telecom e TI, com foco em gestão de incidentes, análise de circuitos de dados e voz e garantia de cumprimento de SLA contratual.
+
+---
+
+## 2. Responsabilidades Técnicas
+
+- Abertura, acompanhamento e encerramento de chamados técnicos
+- Troubleshooting inicial de circuitos de telecom
+- Diagnóstico técnico em plataformas:
   - NWB
   - Datacom
   - IP ADSL
-- Acionamento de equipes técnicas para tratativas avançadas
-- Monitoramento e cumprimento de SLA
-- Atualização de procedimentos técnicos
-- Atendimento a usuários internos e externos
+- Monitoramento de desempenho de circuitos
+- Interface com equipes técnicas de campo
+- Atualização de procedimentos operacionais
 
 ---
 
-## 🌐 Competências Técnicas Aplicadas
+## 3. Gestão de Incidentes e SLA
 
-- Redes de Computadores
-- Análise de Incidentes
-- Troubleshooting em Telecom
-- Gestão de SLA
-- Atendimento técnico estruturado
-- Comunicação técnica com clientes
-
----
-
-## 🧪 Cenário Técnico Relevante
-
-**Problema:** Instabilidade em circuito de dados corporativo  
-**Análise:** Verificação de status de enlace e testes de conectividade  
-**Ação:** Acionamento de equipe técnica especializada  
-**Resultado:** Restabelecimento do circuito dentro do SLA contratual  
+- Tratamento estruturado de incidentes críticos
+- Priorização conforme impacto e urgência
+- Comunicação ativa com clientes
+- Garantia de cumprimento de SLA
+- Registro técnico detalhado das ocorrências
 
 ---
 
-## 🎓 Evolução Profissional
+## 4. Contribuições Estratégicas
 
-Experiência consolidando visão de:
-- Operações de Telecom
-- Gestão de incidentes críticos
-- Comunicação técnica estratégica
+- Redução de tempo de resposta inicial
+- Melhoria na comunicação técnica com clientes
+- Padronização de procedimentos operacionais
+- Aumento da eficiência no tratamento de incidentes
+
+---
+
+## 5. Competências Consolidadas
+
+- Gestão de incidentes em telecom
+- Análise técnica de redes de dados
+- Comunicação técnica corporativa
+- Operações orientadas a SLA
