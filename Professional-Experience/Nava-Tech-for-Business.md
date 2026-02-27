@@ -1,7 +1,7 @@
 # 🏢 NAVA – Technology for Business
 
 # RELATÓRIO TÉCNICO PROFISSIONAL  
-## NAVA – Technology for Business  
+ 
 Especialista em Telecomunicações  
 Período: Setembro/2024 – Atual  
 Localidade: Brasília – DF  
