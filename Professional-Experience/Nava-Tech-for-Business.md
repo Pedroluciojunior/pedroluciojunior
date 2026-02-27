@@ -1,32 +1,3 @@
----
-
-# RELATÓRIO TÉCNICO PROFISSIONAL
-
-## INFRAESTRUTURA E OPERAÇÕES DE TI
-
----
-
-### Profissional:
-**Pedro Lucio Cardoso Matos Junior**
-
-### Organização:
-NAVA – Technology for Business
-
-### Cargo:
-Especialista em Telecomunicações
-
-### Período:
-Setembro/2024 – Atual
-
-### Localidade:
-Brasília – DF
-
----
-
-Documento estruturado para fins de apresentação técnica, demonstrando responsabilidades, competências aplicadas, contribuições estratégicas e consolidação profissional em ambientes corporativos de Tecnologia da Informação.
-
----
-
 
 # 🏢 NAVA – Technology for Business
 
