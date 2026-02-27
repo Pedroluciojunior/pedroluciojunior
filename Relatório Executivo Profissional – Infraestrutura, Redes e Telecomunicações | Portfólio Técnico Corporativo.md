@@ -72,7 +72,6 @@ Suporte Técnico
 
 - Administração de Redes  
 - Telecomunicações (WAN / Circuitos de Dados)  
-- Segurança da Informação  
 - ISO/IEC 27001  
 - ITIL  
 - Troubleshooting Avançado  
