@@ -105,7 +105,6 @@ O relatório detalhado está disponível em:
 Atuar em posição estratégica na área de Infraestrutura, Redes ou Telecomunicações, contribuindo para:
 
 - Alta disponibilidade
-- Segurança da Informação
 - Governança de TI
 - Eficiência operacional
 
@@ -113,8 +112,9 @@ Atuar em posição estratégica na área de Infraestrutura, Redes ou Telecomunic
 
 ## 📬 CONTATO
 
-LinkedIn: (Inserir link)  
-E-mail: (Inserir e-mail profissional)
+LinkedIn: linkedin.com/in/pedroluciojunior/ 
+E-mail: plcmjr@gmail.com
+Telefone: 61 99262-7009
 
 ---
 
