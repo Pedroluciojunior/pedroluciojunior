@@ -73,8 +73,8 @@ Guia técnico estruturado para aplicação de boas práticas de segurança em se
 
 ## 🎓 Formação
 
-- Licenciatura em Computação – Universidade de Brasília
-- Redes de Computadores – Faculdade Sumaré
+- Graduando_Licenciatura em Computação – Universidade de Brasília
+- Graduado_Redes de Computadores – Faculdade Sumaré
 
 ---
 
