@@ -112,9 +112,9 @@ Atuar em posição estratégica na área de Infraestrutura, Redes ou Telecomunic
 
 ## 📬 CONTATO
 
-LinkedIn: linkedin.com/in/pedroluciojunior 
-E-mail: plcmjr@gmail.com 
-Telefone: 61 99262-7009
+- LinkedIn: linkedin.com/in/pedroluciojunior 
+- E-mail: plcmjr@gmail.com 
+- Telefone: 61 99262-7009
 
 ---
 
