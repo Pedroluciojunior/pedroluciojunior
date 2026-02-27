@@ -1,48 +1,39 @@
 # 🏢 Montreal Oficial
 
-📍 Brasília – DF  
-📅 Jul/2022 – Mai/2023  
-🎯 Cargo: Helpdesk
+# RELATÓRIO TÉCNICO PROFISSIONAL  
+ 
+Helpdesk de TI  
+Período: Julho/2022 – Maio/2023  
+Localidade: Brasília – DF  
 
 ---
 
-## 🎯 Escopo de Atuação
+## 1. Contexto Organizacional
 
-Atendimento técnico a usuários da área Setor Governamental (GDF/DF) com suporte a sistemas administrativos e infraestrutura básica.
+Atuação em ambiente público, prestando suporte técnico a usuários institucionais e mantendo a estabilidade de sistemas administrativos.
 
 ---
 
-## 🔧 Atividades Técnicas
+## 2. Responsabilidades Técnicas
 
 - Atendimento ao usuário TIC
 - Administração básica do Active Directory
 - Otimização de sistemas operacionais
-- Suporte a sistemas administrativos do GDF
-- Instalação e configuração de impressoras e scanners
-- Apoio na manutenção de estações de trabalho
+- Instalação e configuração de periféricos
+- Apoio à infraestrutura administrativa
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 3. Contribuições Estratégicas
 
-- Windows 10
-- Active Directory
-- Sistemas administrativos públicos
-- Ferramentas ITIL
-
----
-
-## 🧪 Cenário Técnico Relevante
-
-**Problema:** Lentidão em estações administrativas  
-**Análise:** Verificação de consumo de recursos e atualizações pendentes  
-**Solução:** Otimização do sistema operacional  
-**Resultado:** Melhoria significativa no desempenho operacional  
+- Melhoria de desempenho em estações críticas
+- Apoio à continuidade operacional
+- Padronização de rotinas técnicas
 
 ---
 
-## 📈 Competências Desenvolvidas
+## 4. Competências Consolidadas
 
-- Atendimento técnico institucional
+- Suporte institucional
 - Administração básica de domínio
-- Otimização de ambientes Windows
+- Diagnóstico e otimização de sistemas
