@@ -1,54 +1,40 @@
 # 🏢 Transdourada Transportes Ltda.
 
-📍 Ananindeua – PA  
-📅 Ago/2016 – Dez/2017  
-🎯 Cargo: Suporte Técnico  
+# RELATÓRIO TÉCNICO PROFISSIONAL  
+ 
+Suporte Técnico  
+Período: Agosto/2016 – Dezembro/2017  
+Localidade: Ananindeua – PA  
 
 ---
 
-## 🎯 Escopo de Atuação
+## 1. Contexto Organizacional
 
-Administração de infraestrutura local e suporte a sistemas operacionais e corporativos.
+Responsável pela manutenção da infraestrutura local, garantindo conectividade e funcionamento dos sistemas operacionais da empresa.
 
 ---
 
-## 🔧 Atividades Técnicas
+## 2. Responsabilidades Técnicas
 
 - Administração de rede local
-- Instalação e manutenção de cabeamento estruturado
+- Manutenção de cabeamento estruturado
 - Configuração de servidores e estações
 - Gerenciamento de antivírus
-- Virtualização básica
-- Suporte aos sistemas:
-  - Emsys
-  - Vendedor Web
-  - TacGás
-  - Infolub
-  - Bematech
+- Suporte a sistemas corporativos (Emsys, Vendedor Web, TacGás, Infolub, Bematech)
+- Apoio em virtualização básica
 
 ---
 
-## 🌐 Competências Técnicas Aplicadas
+## 3. Contribuições Estratégicas
 
-- Cabeamento estruturado
-- Administração de rede local
-- Manutenção preventiva e corretiva
-- Configuração de servidores
-- Gestão de segurança básica
+- Estabilização da rede local
+- Redução de falhas físicas de conectividade
+- Melhoria da disponibilidade dos sistemas internos
 
 ---
 
-## 🧪 Cenário Técnico Relevante
+## 4. Competências Consolidadas
 
-**Problema:** Interrupção na comunicação entre setores  
-**Análise:** Verificação de cabeamento e switch local  
-**Solução:** Reorganização de patch panel e substituição de cabo defeituoso  
-**Resultado:** Restabelecimento da conectividade interna  
-
----
-
-## 📈 Competências Desenvolvidas
-
-- Infraestrutura física de rede
-- Administração prática de ambiente corporativo
-- Resolução de problemas em campo
+- Infraestrutura física e lógica de rede
+- Manutenção preventiva
+- Administração de ambiente corporativo local
